@@ -5,6 +5,11 @@
 ROS 2 Galactic Geochelone (codename 'galactic'; May, 2021)
 ==========================================================
 
+.. toctree::
+   :hidden:
+
+   Galactic-Geochelone-Complete-Changelog.rst
+
 .. contents:: Table of Contents
    :depth: 2
    :local:
